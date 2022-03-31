@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.link{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    margin: 0px 15px 0px 15px;
+}
+.navigation{
+    margin: 8px 20px 0px 20px;
+    padding-left: 20px;
+    background-color: black;
+    height: 50px;
+    display: flex;
+    flex-flow: wrap;
+    align-items: center;
+    border-radius: 30px;
+}
